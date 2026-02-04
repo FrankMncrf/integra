@@ -3,7 +3,6 @@ import About from "./components/About";
 import Services from "./components/Services";
 import WhyUs from "./components/WhyUs";
 import TrustSection from "./components/TrustSection";
-import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -13,7 +12,6 @@ export default function Home() {
       <Services />
       <WhyUs />
       <TrustSection />
-      <Footer />
     </main>
   );
 }
