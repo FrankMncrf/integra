@@ -17,7 +17,7 @@ const openSans = Open_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Integra AV | Tecnología que Conecta",
+  title: "Integra AV | Ingeniería Audiovisual y Automatización",
   description: "Soluciones integrales en Audio, Video, Automatización y Educación Híbrida.",
   icons: {
     icon: "/logos/favicon.ico",
