@@ -28,7 +28,7 @@ export const siteContent = {
     },
     home: {
         hero: {
-            title: "Tecnología que Conecta. Espacios que Inspiran.",
+            title: "Ingeniería Audiovisual y Automatización. Espacios que Inspiran.",
             subtitle: "Soluciones integrales en Audio, Video, Automatización y Educación Híbrida.",
             ctaPrimary: "Ver Soluciones",
             ctaSecondary: "Contáctanos"
